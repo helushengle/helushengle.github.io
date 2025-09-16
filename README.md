@@ -133,6 +133,10 @@
             
             <div class="flex flex flex-col md:flex-row items-center gap-10">
                 <div class="md:w-1/2">
+                    <img src="https://bkimg.cdn.bcebos.com/smart/6d81800a19d8bc3eb13529b2f8dcb11ea8d3fd1fef36-bkimg-process,v_1,rw_1,rh_1,pad_1,color_ffffff?x-bce-process=image/format,f_auto" alt="盛乐博物馆展品" class="rounded-lg shadow-xl w-full h-auto transform transition-transform hover:scale-[1.02] duration-500">
+                </div>
+                
+                <div class="md:w-1/2">
                     <h3 class="text-2xl font-bold mb-4 text-primary">探寻历史足迹，传承文化根脉</h3>
                     <p class="text-lg mb-4 leading-relaxed">
                         盛乐博物馆成立于2007年6月16日，该馆位于全国重点文物保护单位——和林格尔土城子遗址东侧，占地面积40000平方米,建筑面积5558平方米。
